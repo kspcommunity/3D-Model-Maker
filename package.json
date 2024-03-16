@@ -1,0 +1,25 @@
+{
+  "name": "3d-model-maker",
+  "version": "1.0.0",
+  "description": "A part to 3d model converter for Kerbal Space Program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kspcommunity/3D-Model-Maker.git"
+  },
+  "keywords": [
+    "ksp",
+    "convert",
+    "3d",
+    "model"
+  ],
+  "author": "g9militantsYT",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/kspcommunity/3D-Model-Maker/issues"
+  },
+  "homepage": "https://github.com/kspcommunity/3D-Model-Maker#readme"
+}
